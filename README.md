@@ -1,9 +1,6 @@
 ## James here 👋
-## Skilled at mountain biking, art, watching movies and 
-finding the quickest solution to the problem at hand.
-## Love doing gym, going to the beach, enjoying the moment, watching boxing and not giving a FUCK.
-## Used to enjoy being a hardcore gamer, but lately less and less.
-![image](https://github.com/user-attachments/assets/9ff398dc-457e-489b-a10f-0da59b331ade)
+## Skilled at mountain biking, art, watching movies and finding the quickest solution to the problem at hand.
+## Love doing gym, going to the beach, enjoying the moment, watching boxing
 
 <!--
 **waimea-jmblack/waimea-jmblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
