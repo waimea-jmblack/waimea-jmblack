@@ -1,6 +1,9 @@
 ## James here 👋
-## Skilled at mountain biking, art, watching movies and finding the quickest solution to the problem at hand.
-## Love doing gym, going to the beach, enjoying the moment, watching boxing
+## Love doing gym, going to the beach, enjoying the moment, watching boxing, tramping, a little bit of gaming.
+## Working on building a passive income so that I have the freedom to do the things I want instead of working a 9 to 5.
+## Also changing my personality and my physic to become a greater man.
+## Currently finishing NCEA level 3 while searching for a greater purpose.
+## Fun fact: I dont give a shit about death.
 
 <!--
 **waimea-jmblack/waimea-jmblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
